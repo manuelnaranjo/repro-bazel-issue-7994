@@ -1,0 +1,2 @@
+test --enable_runfiles --build_runfile_manifests -t- --test_output=all
+
